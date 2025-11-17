@@ -1,0 +1,22 @@
+# Requirements
+
+  * Python 3.7
+  * Numpy
+  * Pandas
+  * Backtesting
+
+# Instructions
+
+    - run.py should intall all nessisary programes and intiate test.py
+    - In test.py you can imput your chosen strategy which will be backtested against the generated data.
+    - A graph will be generated when finished.
+
+# Best Pratices
+
+    - Use a virtual machine
+    - Run under 5,000,000 ticks for optimal preformance
+
+# Future Updates
+
+    - Use of tensor math to better otimize preformance and allow for more tick generation.
+    
